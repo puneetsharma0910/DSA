@@ -39,3 +39,5 @@ int main()
     DiamondPattern(count);
     return 0;
 }
+
+//
